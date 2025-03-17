@@ -8,6 +8,7 @@
 
 # Used Framework
  **Tensorflow**, pandas, numpy, keras, ...
+# 최고 모델 정확도: 83.74%
  
 # 발표 자료
  [발표 자료 보기](https://github.com/MovingJu/python_DANP/blob/main/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88.pdf)
